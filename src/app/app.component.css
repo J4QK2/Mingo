@@ -1,0 +1,680 @@
+p{
+    font-family: 'try-clother-bold', sans-serif;
+}
+button{
+    font-family: 'try-clother-bold', sans-serif;
+}
+li{
+    font-family: 'try-clother-bold', sans-serif;
+}
+input{
+    font-family: 'try-clother-bold', sans-serif;
+}
+label{
+    font-family: 'try-clother-bold', sans-serif;
+}
+select{
+    font-family: 'try-clother-bold', sans-serif;
+}
+.tagline{
+    font-size: 48px;
+    line-height: 67px;
+}
+.box_1{
+    height: 50%;
+    width: 477px;
+    margin: 50px 0px 0px 223px;
+}
+.box_2{
+    width: 600px;
+    margin: 0px 223px 0px 0px;
+}
+.benefit{
+    margin-bottom: 20px;
+    font-size: 32px;
+    line-height: 32px;
+    display: flex;
+}
+.benefit_img{
+    width: 134.1px;
+    height: 117.43px;
+}
+.benefits{
+    list-style-type: none;
+    color: #27356E;
+    margin: 47px 50px 0px 0px;
+}
+.benefit_text{
+    margin: 30px 0px 0px 0px;
+}
+.section_1{
+    display: flex;
+    justify-content: center;
+}
+.Partnership{
+    position: relative;
+    background: #313646;
+    border-radius: 30px;
+    width: 251px;
+    height: 61px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    top: 40px;
+    border: none;
+}
+.container_1{
+    box-sizing: border-box;
+    width: 280px;
+    height: 345px;
+    border: 2px solid #E3371D;
+    border-radius: 20px;
+    align-items: center;
+    margin: 50px;
+}
+.card_title{
+    position: relative;
+    text-align: center;
+    width: 147px;
+    height: 37px;
+    margin: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+    top: -20px;
+    left: 50px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    
+    color: #E3371D;
+}
+.card_desc{
+    text-align: right;
+    height: 180px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28px;
+    color: #27356E;
+    margin: 0px 22px 36px 26px;
+}
+.card_percent{
+    height: 67px;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 73px;
+    text-align: right;
+    margin: 12px 17px 33px 98px;
+
+    color: #E3371D;
+}
+.pros{
+    width: 994px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 100px 0px 100px 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.time{
+    width: 532px;
+height: 346.43px;
+    border-radius: 70px;
+}
+.reasons{
+    width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.reason_1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 0px 80px 0px;
+}
+.reason_text{
+    text-align: right;
+    color: #27356E;
+    padding: 80px 74px 0px 0px;
+    margin: 0px 0px 100px 20px;
+}
+.desc{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    width: 385px;   
+    margin: 0px;
+}
+.desc_2{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    width: 385px;   
+    text-align: left;
+}
+.desc_3{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    width: 385px; 
+    margin-top: 90px;
+}
+.m_o{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    width: 385px;
+    height: 91px;
+    margin: 0px;
+}
+.a_p{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    width: 448px;
+    height: 187px;
+    margin: 0px;
+    text-align: left;
+}
+.reason_img{
+    width: 528px;
+    height: 342.6px;
+}
+.send{
+    width: 517px;
+    height: 112.25px;
+    background: #E3371D;
+    border-radius: 80px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 115%;
+    text-align: center;
+
+    color: #FFFFFF;
+    border: none;
+}
+.send_message{
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px 100px 0px;
+}
+.send_effect_1{
+    width: 123.75px;
+    height: 156.25px;
+}
+
+.send_effect_2{
+    width: 123.75px;
+    height: 156.25px;
+    transform: rotate(178.5deg);
+}
+.how{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 67px;
+    text-align: center;
+
+    color: #27356E;
+    margin: 100px 0px 72px 0px;
+}
+.steps_number{
+    width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 0px 0px 0px 20px;
+}
+.steps{
+    width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.big_step{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    text-align: center;
+    width: 192px;
+    padding: 50px;
+    margin: 0px 0px 0px 0px;
+
+    color: #27356E;
+}
+.step_desc{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+
+    color: #E3371D;
+    margin: 10px 0px 0px 0px;
+}
+.step_title{
+    margin: 21px 0px 0px 0px;
+}
+.upper_footer{
+    height: 508px;
+    background: rgba(227, 55, 29, 0.1);
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-items: center;
+    bottom: 0px;
+}
+.under_footer{
+    height: 100px;
+    background: #27356E;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Logo{
+    box-sizing: border-box;
+    width: 112px;
+    height: 112px;
+    margin: 80px 0px 0px 226px;
+}
+.naming{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+
+    color: #27356E;
+    margin: 0px 0px 20px 0px;
+    padding: 0px 0px 0px 25px;
+}
+.footer_list{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #27356E;
+}
+.footer_list_child{
+    margin: 0px 0px 0px 20px;
+    padding: 10px;
+}
+.footer_text{
+    display: flex;
+    justify-content: center;
+}
+.navigation_footer{
+    margin: 80px 40px 0px 40px;
+}
+.copyright{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+.installment_plan{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    color: #27356E;
+}
+.partnership_section{
+    width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.partnership_title{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 67px;
+    text-align: center;
+    margin: 150px 0px 30px 0px;
+
+    color: #27356E;
+}
+.partnership_commission{
+    display: flex;
+    justify-content: center;
+}
+.comm_percent{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 67px;
+    text-align: center;
+    margin: 0px;
+
+    color: #E3371D;
+}
+.comm_text{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0px 0px 50px 0px;
+
+    color: #E3371D;
+}
+.installment{
+    margin: 10px 0px 10px 0px;
+}
+.month_count{
+    font-size: 54px;
+    line-height: 76px;
+    color: #E3371D;
+    margin: 0px;
+}
+.month{
+    margin: 0px 60px 0px 60px;
+}
+.registry_section{
+    display: flex;
+    justify-content: center;
+    width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.registry_title{
+    display: flex;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+
+    color: #27356E;
+    margin: 50px 0px 24px 93px;
+}
+.connect_mingo{
+    margin-left: 10px;
+    color:#E3371D;
+}
+.registry_box{
+    width: 994.5px;
+    height: 663px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 70px;
+    margin: 100px 0px 100px 0px;
+}
+.FIO{
+    width: 375.7px;
+    height: 63.35px;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    margin: 0px 73px 24px 0px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 34px;
+    padding-left: 10px;
+
+    color: #D9D9D9;
+}
+.registry_input{
+    display: flex;
+    margin: 0px 0px 20px 93px;
+}
+.agreement{
+    margin: -10px 0px 0px 93px;
+}
+.send_registry{
+    width: 320px;
+    height: 63px;
+    background: #E3371D;
+    border-radius: 30px;
+    border: none;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #FFFFFF;
+    margin: 22px 0px 0px 93px;
+}
+.under_registry{
+    display: flex;
+    margin: 53px 0px 51px 93px;
+}
+.agreement_text{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #27356E;
+    margin: 0px 0px 0px 10px;
+}
+.agreement_checkbox{
+    width: 30px;
+height: 30px;
+border: 1px solid #27356E;
+border-radius: 5px;
+}
+.clock{
+    width: 166.34px;
+    height: 136px;
+}
+.agreement_5min{
+    text-align: right;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: right;
+    
+    color: #27356E;
+}
+.min5{
+    text-align: right;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    text-align: right;
+    color: #E3371D;
+}
+.agreement_text_5min{
+    margin: 0px 90px 69px 0px;
+}
+    @media (max-width: 1090px) {
+    .section_1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .tagline{
+        font-size: 50px;
+        line-height: 67px;
+    }
+    .box_1{
+        height: 50%;
+        width: 500px;
+        margin: 50px 0px 0px 223px;
+    }
+    .box_2{
+        width: 600px;
+        margin: 30px 223px 0px 180px;
+    }
+    .benefit{
+        margin-bottom: 20px;
+        font-size: 32px;
+        line-height: 32px;
+        display: flex;
+    }
+    .benefit_img{
+        width: 134.1px;
+        height: 117.43px;
+    }
+    .benefits{
+        list-style-type: none;
+        color: #27356E;
+        margin: 47px 50px 0px 0px;
+    }
+    .benefit_text{
+        margin: 30px 0px 0px 0px;
+    }
+    .section_1{
+        display: flex;
+        justify-content: center;
+    }
+    .partnership_section{
+        margin-left: 20px;
+    }
+    .registry_section{
+        margin-left: 50px;
+    }
+   }
+@media (max-width: 1000px){
+    .name_1{
+        font-size: 80px;
+    }
+    .name_2{
+        font-size: 45px;
+    }
+    .name_3{
+        font-size: 45px;
+    }
+    .Partnership{
+        width: 350px;
+        height: 80px;
+        font-size: 35px;
+    }
+    .pros{
+        width: 994px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 100px 0px 100px 0px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .pros{
+        flex-direction: column;
+    }
+    .container_1{
+        width: 500px;
+    }
+    .card_title{
+        font-size: 35px;
+    }
+    .card_desc{
+        font-size: 30px;
+    }
+    .reason_img{
+        display: none;
+    }
+    .desc{
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        width: 385px;   
+        margin-top: 20px;
+        text-align: center;
+        color: #E3371D;
+    }
+    .desc_2{
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        width: 385px;   
+        text-align: center;
+        margin-top: 140px;
+        margin-left: 20px;
+        color: #E3371D;
+    }
+    .desc_3{
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 55px;
+        width: 385px; 
+        margin-top: 190px;
+        text-align: center;
+        color: #E3371D;
+    }
+    .m_o{
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 55px;
+        width: 385px;
+        height: 91px;
+        margin: 0px;
+        text-align: center;
+    }
+    .a_p{
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 55px;
+        width: 448px;
+        height: 187px;
+        margin: 0px;
+        text-align: center;
+    }
+    .reason_1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0px 0px 0px 0px;
+    }
+    .partnership_arrow{
+        display: none;
+    }
+    .how{
+        font-size: 64px;
+    }
+    .steps_number{
+        flex-direction: column;
+    }
+    .big_step{
+        padding: 20px;
+        margin-left: 350px;
+    }
+    .step_img{
+        width: 250px;
+        height: 250px;
+    }
+    .step_title{
+        font-size: 45px;
+        margin-bottom: 15px;
+    }
+    .step_desc{
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    .partnership_title{
+        font-size: 75px;
+        margin: 100px 0px 100px 0px;
+    }
+    .installment_plan{
+        flex-direction: column;
+    }
+    .installment{
+        font-size: 45px;
+    }
+    .month{
+        margin-bottom: 40px;
+    }
+    .month_count{
+        font-size: 70px;
+    }
+    .comm_percent{
+        margin-top: 10px;
+        font-size: 95px;
+    }
+    .comm_text{
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .registry_box{
+        width: 800px;
+        height: 900px;
+        margin-right: 70px;
+    }
+    .registry_input{
+        flex-direction: column;
+    }
+   } 
