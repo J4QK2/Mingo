@@ -176,6 +176,15 @@ height: 346.43px;
     margin: 0px;
     text-align: left;
 }
+.o_p{
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 45px;
+    width: 385px;
+    height: 91px;
+    margin: 0px;
+    text-align: center;
+}
 .reason_img{
     width: 528px;
     height: 342.6px;
@@ -576,9 +585,11 @@ border-radius: 5px;
     }
     .partnership_section{
         width: 700px;
+        margin: 50px;
     }
     .registry_section{
         width: 700px;
+        margin: 0px 74px 0px 74px;
     }
     .container_1{
         width: 500px;
@@ -597,7 +608,6 @@ border-radius: 5px;
         font-size: 45px;
         line-height: 55px;
         width: 385px;   
-        margin-top: 20px;
         text-align: center;
         color: #E3371D;
     }
@@ -605,10 +615,8 @@ border-radius: 5px;
         font-weight: 700;
         font-size: 45px;
         line-height: 55px;
-        width: 385px;   
+        width: 450px;   
         text-align: center;
-        margin-top: 140px;
-        margin-left: 20px;
         color: #E3371D;
     }
     .desc_3{
@@ -616,7 +624,7 @@ border-radius: 5px;
         font-size: 45px;
         line-height: 55px;
         width: 385px; 
-        margin-top: 190px;
+        margin: 0px;
         text-align: center;
         color: #E3371D;
     }
@@ -625,7 +633,7 @@ border-radius: 5px;
         font-size: 50px;
         line-height: 55px;
         width: 385px;
-        height: 91px;
+        height: 150px;
         margin: 0px;
         text-align: center;
     }
@@ -634,15 +642,24 @@ border-radius: 5px;
         font-size: 50px;
         line-height: 55px;
         width: 448px;
-        height: 187px;
-        margin: 0px;
+        height: 380px;
         text-align: center;
+    }
+    .o_p{
+        font-size: 45px;
+        height: 280px;
     }
     .reason_1{
         display: flex;
         align-items: center;
         justify-content: center;
         margin: 0px 0px 0px 0px;
+    }    
+    .reason_text{
+        display: flex;
+        flex-direction: column;
+        padding: 0px;
+        margin: 100px 0px 100px 0px;
     }
     .partnership_arrow{
         display: none;
@@ -658,6 +675,7 @@ border-radius: 5px;
         padding: 20px;
         margin-left: 200px;
     }
+
     .agreement{
         margin-left: 50px;
     }
@@ -702,6 +720,9 @@ border-radius: 5px;
         font-size: 70px;
         line-height: 70px;
     }
+    .registry_title{
+        margin-left: 50px;
+    }
     .registry_box{
         width: 800px;
         height: 900px;
@@ -709,5 +730,17 @@ border-radius: 5px;
     }
     .registry_input{
         flex-direction: column;
+    }
+    .send_registry{
+        margin: 20px 140px 20px 140px;
+    }
+    .under_registry{
+        margin: 0px;
+    }
+    .agreement_text_5min{
+        margin: 30px;
+    }
+    .clock{
+        margin: 40px;
     }
    } 
